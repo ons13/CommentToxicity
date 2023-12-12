@@ -1,6 +1,6 @@
+tensorflow
 streamlit-aggrid
 streamlit_extras
-tensorflow
 streamlit
 nltk
 TextVectorizer
