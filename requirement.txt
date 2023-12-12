@@ -1,4 +1,3 @@
-tensorflow
 streamlit-aggrid
 streamlit_extras
 streamlit
